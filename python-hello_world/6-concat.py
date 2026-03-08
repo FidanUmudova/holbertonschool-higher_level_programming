@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-str1= "Welcome"
-str2 = "Holberton School"
-# print the full welcome message using only str1 and str2
-print(str1 + " to " + str2+ "!")
+str1= "Holberton"
+str2 = "School"
+str = "Welcome to "
+print(str + str1 + " to " + str2+ "!")
