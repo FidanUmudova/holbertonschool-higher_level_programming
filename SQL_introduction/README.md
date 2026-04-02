@@ -1,0 +1,1 @@
+SQL (Structured Query Language) is used to manage relational databases like MySQL, allowing you to define structure with DDL (CREATE, ALTER), manipulate data with DML (SELECT, INSERT, UPDATE, DELETE), use subqueries, and apply built-in functions like COUNT() and NOW().
